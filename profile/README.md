@@ -11,7 +11,18 @@
 
 
 ### 멤버
-
+|이름|계정|과제 레포|
+|---|---|---|
+|김응관|@alpha-kwhn|[kwan-assignment](https://github.com/likelion-swiftui/kwan-assignment)|
+|Donghoon Bae|@erun94510|[done_assignment](https://github.com/likelion-swiftui/done_assignment)|
+|hyemi|@hyemib|[ena_assignment](https://github.com/likelion-swiftui/ena_assignment)|
+|jekyun-park|@jekyun-park|[jegul_assignment](https://github.com/likelion-swiftui/jegul_assignment)|
+|Dohyeon Ko|@k906506|[kodo_assignment](https://github.com/likelion-swiftui/kodo_assignment)|
+|ryuchanghwi|@ryuchanghwi|[changhwi_assignment](https://github.com/likelion-swiftui/changhwi_assignment)|
+|Hyemin Heo|@soletree|[sol_assignment](https://github.com/likelion-swiftui/sol_assignment)|
+|sumanhong|@suman0204|[sooman_assignment](https://github.com/likelion-swiftui/sooman_assignment)|
+|승준|@ValseLee|[valse_assginment](https://github.com/likelion-swiftui/valse_assginment)|
+|Yeseul Chung|@yeseul321|[yeseul_assignment](https://github.com/likelion-swiftui/yeseul_assignment)|
 
 ### 진척도
 | 주차 | 주제 | 과제 |
