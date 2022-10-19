@@ -27,7 +27,7 @@
 |Yeseul Chung|@yeseul321|[yeseul_assignment](https://github.com/likelion-swiftui/yeseul_assignment)|
 
 ### 진척도
-| 주차 | 주제 | 과제 |
-|---|---|---|
-|1주차|View, Stack, Frame|SwiftUI Tutorial|
-|2주차|[Button, Navigation View, List, Geometry Reader](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011)|[SwiftUI Tutorial]((https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011))|
+| 주차 | 날짜 | 주제 | 과제 | 
+|---|---|---|---|
+|1주차|10월 11일|View, Stack, Frame|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011)|
+|2주차|10월 18일|Button, Navigation View, List, Geometry Reader|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221018)|
