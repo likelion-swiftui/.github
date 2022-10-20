@@ -10,7 +10,10 @@
 - 참고 링크의 코드는 최대한 보지 않고 완성하기
 
 ### 일정 
-
+| 주차 | 날짜 | 주제 | 과제 | 
+|---|---|---|---|
+|[1주차](https://github.com/likelion-swiftui/notice_study/tree/main/20221011)|2022년 10월 11일|View, Stack, Frame|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011)|
+|[2주차](https://github.com/likelion-swiftui/notice_study/tree/main/20221018)|2022년 10월 18일|Button, Navigation View, List, Geometry Reader|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221018)|
 
 ### 멤버
 |이름|계정|과제 레포|
@@ -25,9 +28,3 @@
 |sumanhong|@suman0204|[sooman_assignment](https://github.com/likelion-swiftui/sooman_assignment)|
 |승준|@ValseLee|[valse_assginment](https://github.com/likelion-swiftui/valse_assginment)|
 |Yeseul Chung|@yeseul321|[yeseul_assignment](https://github.com/likelion-swiftui/yeseul_assignment)|
-
-### 진척도
-| 주차 | 날짜 | 주제 | 과제 | 
-|---|---|---|---|
-|1주차|10월 11일|View, Stack, Frame|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011)|
-|2주차|10월 18일|Button, Navigation View, List, Geometry Reader|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221018)|
