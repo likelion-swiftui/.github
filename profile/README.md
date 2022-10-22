@@ -9,7 +9,7 @@
 - 모르는 부분은 일단 스터디원들에게 질문하기
 - 참고 링크의 코드는 최대한 보지 않고 완성하기
 
-### .gitignore 사이트
+### .gitignore 사이트(macOS, Xcode 추가 권장)
 - https://www.toptal.com/developers/gitignore/
 
 ### 일정 
