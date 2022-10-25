@@ -1,8 +1,6 @@
-# Hi there 👋
-
----
 ## 팀소개
 > 저희는 멋사 앱스쿨 1기의 SwiftUI 스터디 그룹입니다.
+
 
 ### 규칙
 - 과제 제출은 다음 스터디 전까지 깃허브에 업로드
@@ -17,6 +15,7 @@
 |---|---|---|---|
 |[1주차](https://github.com/likelion-swiftui/notice_study/tree/main/20221011)|2022년 10월 11일|View, Stack, Frame|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011)|
 |[2주차](https://github.com/likelion-swiftui/notice_study/tree/main/20221018)|2022년 10월 18일|Button, Navigation View, List, Geometry Reader|[SwiftUI Tutorial](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221018)|
+
 
 ### 멤버
 |이름|계정|과제 레포|
