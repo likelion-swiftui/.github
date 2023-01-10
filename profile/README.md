@@ -30,3 +30,4 @@
 |sumanhong|[@suman0204](https://github.com/suman0204)|[📁sooman_assignment](https://github.com/likelion-swiftui/sooman_assignment)|
 |승준|[@ValseLee](https://github.com/ValseLee)|[📁valse_assginment](https://github.com/likelion-swiftui/valse_assginment)|
 |Yeseul Chung|[@yeseul321](https://github.com/yeseul321)|[📁yeseul_assignment](https://github.com/likelion-swiftui/yeseul_assignment)|
+|한호|[@guguhanogu](https://github.com/guguhanogu)|[📁hano_assignment](https://github.com/likelion-swiftui/yeseul_assignment)|
